@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yo guys! 👋
 
 <!--
 **Gabyface910/Gabyface910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a random guy that loves python code. I'm still learning but hey, everyone does! My main goal in programming is to become like [__Botspot__](https://github.com/Botspot). Follow him for cool stuff. I use Raspberry Pi and i need to upgrade '-_-
+
+Check out my [ErmAI repository](https://github.com/Gabyface910/ErmAI) to integrate AI into your python code effortlessly!
+So...
+...that's all folks!
