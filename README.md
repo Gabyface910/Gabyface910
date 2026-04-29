@@ -25,6 +25,7 @@ Check out my [ErmAI repository](https://github.com/Gabyface910/ErmAI) to integra
 > - [The mkcmd command](https://github.com/Gabyface910/mkcmd): Easy command maker for ARM64 Debian Linux
 > - [Notable](https://github.com/Gabyface910/notable): Stick reminders in your terminal and use a single command to check them
 > - [ErmAI Billy](https://github.com/Gabyface910/ErmAI): Coding agent you can use in Python - needs testing
+> - [ezpyupload](https://github.com/Gabyface910/ezpyupload): The ultimate tool to upload a package to PyPI
 
 So...
 ...that's all folks!
