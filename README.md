@@ -24,6 +24,7 @@ Check out my [ErmAI repository](https://github.com/Gabyface910/ErmAI) to integra
 > - [Eliza AI](https://github.com/Gabyface910/eliza): Run a lightweight chatbot locally with only a few kilobytes of data!
 > - [The mkcmd command](https://github.com/Gabyface910/mkcmd): Easy command maker for ARM64 Debian Linux
 > - [Notable](https://github.com/Gabyface910/notable): Stick reminders in your terminal and use a single command to check them
+> - [ErmAI Billy](https://github.com/Gabyface910/ErmAI): Coding agent you can use in Python - needs testing
 
 So...
 ...that's all folks!
