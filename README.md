@@ -26,6 +26,7 @@ Check out my [ErmAI repository](https://github.com/Gabyface910/ErmAI) to integra
 > - [Notable](https://github.com/Gabyface910/notable): Stick reminders in your terminal and use a single command to check them
 > - [ErmAI Billy](https://github.com/Gabyface910/ErmAI): Coding agent you can use in Python - needs testing
 > - [ezpyupload](https://github.com/Gabyface910/ezpyupload): The ultimate tool to upload a package to PyPI
+> - [Munchy](https://gabyface910.github.io/munchy): A free recipe website with hundreds of meals. See the repo [here](https://guthub.com/Gabyface910/munchy)
 
 So...
 ...that's all folks!
