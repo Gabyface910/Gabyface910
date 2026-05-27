@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 I'm a random guy that loves python code. I'm still learning but hey, everyone does! My main goal in programming is to become like [__Botspot__](https://github.com/Botspot). Follow him for cool stuff. I use Raspberry Pi and i need to upgrade '-_-
 
+One of the goals I think GitHub should do is check up on all inactive no-repository accounts, and if nothing is happening, remove them. There are so many good names out there!
+
 Check out my [ErmAI repository](https://github.com/Gabyface910/ErmAI) to integrate AI into your python code effortlessly!
 
 ### My top repos y'all should check out:
